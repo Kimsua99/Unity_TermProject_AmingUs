@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\javas2\lose.js">
+    <Files>
+      <File FileName="Assets\om\js\PlayerStatusO.js" Line="35" Column="29" />
+      <File FileName="Assets\sm\Scorekeeper1.js" Line="25" Column="29" />
+      <File FileName="Assets\wm\Bullet\Scorekeeper.js" Line="27" Column="29" />
+      <File FileName="Assets\javas\PlayerStatus.js" Line="63" Column="2" />
+      <File FileName="Assets\javas\sabo_eleF.js" Line="32" Column="31" />
+      <File FileName="Assets\javas\sabo_reaF.js" Line="32" Column="31" />
+      <File FileName="Assets\javas\DiceGame.cs" Line="51" Column="36" />
+      <File FileName="Assets\javas2\clear.js" Line="40" Column="36" />
+      <File FileName="Assets\javas2\lose.js" Line="17" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

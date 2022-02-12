@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: af69ca6be152b7a46beb0263c7f217a7
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: AmongUsArmature
+    100002: Arms
+    100004: Arms.001
+    100006: backpack
+    100008: backpack_end
+    100010: BASE
+    100012: //RootNode
+    100014: Body
+    100016: Body 1
+    100018: BodyStroke
+    100020: Circle
+    100022: Foot.L
+    100024: Foot.L_end
+    100026: Foot.R
+    100028: Foot.R_end
+    100030: Glasses
+    100032: glasses
+    100034: glasses_end
+    100036: GlassesStroke.001
+    100038: Leg.L
+    100040: Leg.R
+    100042: Paper
+    100044: Paper_end
+    400000: AmongUsArmature
+    400002: Arms
+    400004: Arms.001
+    400006: backpack
+    400008: backpack_end
+    400010: BASE
+    400012: //RootNode
+    400014: Body
+    400016: Body 1
+    400018: BodyStroke
+    400020: Circle
+    400022: Foot.L
+    400024: Foot.L_end
+    400026: Foot.R
+    400028: Foot.R_end
+    400030: Glasses
+    400032: glasses
+    400034: glasses_end
+    400036: GlassesStroke.001
+    400038: Leg.L
+    400040: Leg.R
+    400042: Paper
+    400044: Paper_end
+    2300000: Circle
+    3300000: Circle
+    4300000: Body
+    4300002: Arms
+    4300004: Glasses
+    4300006: Circle
+    4300008: GlassesStroke.001
+    4300010: Arms.001
+    4300012: BodyStroke
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arms
+    13700002: Arms.001
+    13700004: Body
+    13700006: BodyStroke
+    13700008: Glasses
+    13700010: GlassesStroke.001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
